@@ -47,8 +47,7 @@ The project can be installed using CMake's `install` functionality.
 
 ## Additional Resources
 
-For a video walkthrough on linking Xcode to this CMake project, check ou t<video src=[LINK](https://github.com/ShereeMorphett/PenguinXcodeDemo/blob/master/tutorialVideo.mp4) controls="controls" style="max-width: 730px;">
-</video>.
+For a video walkthrough on linking Xcode to this CMake project, check out the video in this repo :D
 
 ---
 
